@@ -1,3 +1,19 @@
+# CRUD LARAVEL 7
+
+### Recionamento com Eloquent 1:N e N:N
+
+
+### :pushpin:  Recursos usados ​​
+* PHP 7.2
+* Laravel 7.*
+
+
+### :pushpin: Versão PHP
+
+requires ```PHP >= 7.2```
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
