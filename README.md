@@ -1,7 +1,6 @@
 # CRUD LARAVEL 7
 
-### Recionamento com Eloquent 1:N e N:N
-
+### Recionamento com Eloquent Um para Um, Um para Muitos e Muito para muitos
 
 ### :pushpin:  Recursos usados ​​
 * PHP 7.2
